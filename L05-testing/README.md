@@ -33,4 +33,14 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 
 ### Post-work
 
+W tych samych grupach co na zajęciach wykonajcie poniższe zadania:
+
+- [ ] (6 punktów) dokończenie testów dla Parentheses w Catch2
+- [ ] (6 punktów) napisanie analogicznych testów dla Parentheses w GTest
+- [ ] (6 punktów) ładna zrefaktoryzowana, prosta implementacja
+- [ ] (6 punktów) dokończenie [Pizzas](https://github.com/ziobron/Pizzas)
+
 ### Pre-work
+
+- [ ] poszukaj informacji o tym czym jest program `valgrind` i jak go używać do znajdywanie wycieków pamięci
+- [ ] poczytaj w dowolnym źródle o smart pointerach (unique_ptr, shared_ptr, weak_ptr)
